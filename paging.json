@@ -1,0 +1,10 @@
+{
+    "name": "ERC1155 Paging Test",
+    "description": "Hello, I'm an ERC-1155 Contract",
+    "image": "https://raw.githubusercontent.com/notstevieg/erc1155-metadata/refs/heads/main/erc-1155.jpg",
+    "properties": {
+		"property1": "example value 1",
+		"property2": "example value 2",
+        "property3": "example value 3"
+	}
+}
